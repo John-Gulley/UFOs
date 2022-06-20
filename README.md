@@ -5,7 +5,7 @@ The truth is out there. The following is code to generate a website with filtera
 In this repository, you'll find a dynamic website built from a myriad of lines of UFO data. Since all this data can be so overwhelming for a typical user, the purpose of this analysis was to build a filterable table using data stored in a JavaScript array. The website was created with multiple filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing.
 # Results:
 The website was customized using Bootstrap, and the table was equipped with several fully functional filters that will allow users to interact with our visualizations. Study the below image and we'll begin to learn more about the specific filters for this data project.
- ![UFO_Website_Final](https://user-images.githubusercontent.com/102339838/173209652-1103aa91-25b6-49d8-8285-60153a9a5150.png)
+![webpage](https://user-images.githubusercontent.com/102339838/174685739-091816a0-4982-4832-93a3-a5079cfdaa5a.png)
 
 The storyboard of the website is important to have the components neatly organized. The layout served as the blueprint for this site and helps with the transition from idea to finished product. It helps make sure it captures everything that needs to be displayed and aid the user in navigation. The basic map of the website consists of the following:
 The top component consists of a Jumbotron for the header which takes up the whole row. In the next row, this is followed by a written snippet explaining the purpose of this website. This row is divided by 3 columns and 9 columns for the title and paragraph. After that a grid system for the filters and table is provided in the next row. See the following image:
