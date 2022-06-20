@@ -10,10 +10,7 @@ The website was customized using Bootstrap, and the table was equipped with seve
 The storyboard of the website is important to have the components neatly organized. The layout served as the blueprint for this site and helps with the transition from idea to finished product. It helps make sure it captures everything that needs to be displayed and aid the user in navigation. The basic map of the website consists of the following:
 The top component consists of a Jumbotron for the header which takes up the whole row. In the next row, this is followed by a written snippet explaining the purpose of this website. This row is divided by 3 columns and 9 columns for the title and paragraph. After that a grid system for the filters and table is provided in the next row. See the following image:
 When the user enters the website, they can input either the date, city, state, country, or shape. Within the Javascript code, there is a line of code that acts as a listener for any changes to the filter's input. The Javascript will place any inputs into an array, extract the filter id, and then attempt to match the filters with the predetermined keys and their associated values. When one filter is added to the input box, the user can expect an image as shown below:
- ![UFO_Website_Final_Filter1](https://user-images.githubusercontent.com/102339838/173209662-3e284efa-0c3f-4f5a-b897-bf0f6fa1cff3.png)
- 
-The user can filter this even further by adding another input to refine their search. An example of this would look like the image below:
-![UFO_Website_Final_Filter2](https://user-images.githubusercontent.com/102339838/173209679-55e1ac8f-c02d-4fae-be56-edea9370cf0d.png)
+ ![webpage info](https://user-images.githubusercontent.com/102339838/174685891-575b42e3-8f06-496a-8dbd-cddf61f1c4d7.png)
 
 With some simple tests, the user should be able to quickly decipher the information they need in a timely manner.
 # Summary:
